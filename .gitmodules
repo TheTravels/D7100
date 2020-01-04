@@ -4,3 +4,6 @@
 [submodule "128D7100"]
 	path = 128D7100
 	url = https://github.com/TheTravels/D7100-128D7100.git
+[submodule "129D7100"]
+	path = 129D7100
+	url = https://github.com/TheTravels/D7100-129D7100.git
